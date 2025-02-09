@@ -74,3 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 3.store social media post ideas to post it later 
 4.store events and memories to remember the days and those days memories with your close ones 
 5.store password to save it more securely (encrypted)
+6.share a page of ur diary to someone anonymusly, confession 
