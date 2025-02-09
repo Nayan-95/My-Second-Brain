@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### `use cases`
+1.Store imp links
+2.store project ideas to remember for lifetime
+3.store social media post ideas to post it later 
+4.store events and memories to remember the days and those days memories with your close ones 
+5.store password to save it more securely (encrypted)
