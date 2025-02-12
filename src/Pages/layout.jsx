@@ -1,9 +1,9 @@
 "use client"
 
 import { Box, CssBaseline, ThemeProvider, createTheme } from "@mui/material"
-import { Header } from "./headers.jsx"
-import { Sidebar } from "./sidebar.jsx"
-import { TaskGrid } from "./task-grid.jsx"
+import { Header } from "../Component/headers.jsx"
+import { Sidebar } from "../Component/sidebar.jsx"
+import { TaskGrid } from "../Component/task-grid.jsx"
 
 const darkTheme = createTheme({
   palette: {
@@ -37,4 +37,3 @@ export default function Layout() {
     </ThemeProvider>
   )
 }
-
